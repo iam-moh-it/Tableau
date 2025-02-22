@@ -1,0 +1,1 @@
+Filtering a Tableau dashboard using fields from multiple data sources can be challenging, especially when trying to provide users with an intuitive interface for selecting and viewing details. By leveraging parameters and actions, we can enable users to filter the dashboard based on their selections. Here’s my approach.
